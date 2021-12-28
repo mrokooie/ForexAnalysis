@@ -1,0 +1,2 @@
+# ForexAnalysis
+Analysis forex data
